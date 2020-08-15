@@ -10,3 +10,5 @@
 Instagram : @rusman_toby
 
 Email : rusmants.public@pm.me
+
+[![Visits Badge](https://badges.pufler.dev/visits/RTechnoS/bank_account?style=for-the-badge&color=blue)](https://github.com/RTechnoS/RTechnoS)
